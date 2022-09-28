@@ -1,0 +1,156 @@
+        /*板块更改*/
+        /*register*/
+        
+        .register {
+            height: 580px;
+        }
+        
+        .register h2,
+        p {
+            text-align: center;
+        }
+        
+        .register a {
+            color: #000;
+        }
+        
+        .form02 {
+            display: none;
+        }
+        /*footer*/
+        
+        .footer {
+            width: 100%;
+            height: 202px;
+        }
+        /*下拉菜单*/
+        /*reg*/
+        
+        .reg {
+            line-height: 50px;
+            margin-left: 2px;
+        }
+        
+        .reg .dl {
+            margin-left: 0px;
+            line-height: 75px;
+        }
+        
+        .reg .dl span {
+            line-height: 50px;
+        }
+        
+        .reg .dl select {
+            position: absolute;
+            margin-left: -98px;
+            height: 50px;
+            margin-top: 13px;
+        }
+        
+        .reg .dl img {
+            position: absolute;
+            margin-left: -45px;
+            margin-top: 15px;
+        }
+        
+        .reg .dl input {
+            width: 410px;
+            height: 46px;
+        }
+        
+        .reg .zc {
+            margin-left: 0px;
+            line-height: 75px;
+        }
+        
+        .reg .zc ul {
+            width: 430px;
+        }
+        
+        .reg .zc li {
+            float: left;
+            list-style: none;
+            background-color: white;
+            text-align: center;
+            width: 200px;
+            padding-left: 7px;
+        }
+        
+        .reg .zc select {
+            position: absolute;
+            margin-left: -98px;
+            height: 50px;
+            margin-top: 13px;
+        }
+        
+        .reg .zc .sh {
+            position: absolute;
+            margin-left: -86px;
+        }
+        
+        .reg .zc input {
+            width: 410px;
+            height: 46px;
+        }
+        
+        .reg .zc .p01 input {
+            width: 16px;
+            height: 16px;
+        }
+        
+        .p01 span {
+            display: inline-block;
+            width: 207px;
+            height: 40px;
+            text-align: center;
+            line-height: 40px;
+            background: #e5e4e4;
+        }
+        
+        .p01 .current {
+            background: #fff;
+            color: blue;
+            border-bottom: 2px solid blue;
+        }
+        
+        #ty {
+            width: 16px;
+            height: 16px;
+        }
+        /*three*/
+        
+        .three {
+            text-align: center;
+            padding-bottom: 16px;
+        }
+        
+        .three a {
+            text-decoration: none;
+            color: #000;
+            margin-left: 15px;
+        }
+        
+        .three span {
+            margin-left: 15px;
+            font-size: 10px;
+        }
+        
+        .three .span1 {
+            color: #bdbdbd;
+        }
+        /*下拉菜单修改*/
+        
+        .nav2 li:hover {
+            color: #c00000;
+        }
+        
+        .list_con ul {
+            width: 100%;
+            height: 100%;
+            background: #c00000;
+            color: #fff;
+        }
+        
+        .list_con a {
+            color: #000;
+        }

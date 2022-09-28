@@ -1,0 +1,86 @@
+/*experience*/
+
+.experience {
+    height: 980px;
+}
+
+.content03 h2 {
+    border-bottom: 5px solid #f5f5f5;
+}
+
+.content03 a {
+    color: #000;
+}
+
+.content03 p {
+    margin-top: 25px;
+}
+
+.content03 img {
+    width: 836px;
+    height: 336px;
+    padding-top: 100px;
+}
+
+.content03 span {
+    margin-left: 25px;
+}
+
+
+/*修改板块*/
+
+.w1 {
+    height: 1500px;
+}
+
+.content03 {
+    height: 6300px;
+}
+
+.content04 {
+    margin-top: 25px;
+}
+
+.content05 {
+    margin-top: 25px;
+}
+
+.content06 {
+    margin-top: 50px;
+}
+
+.content07 {
+    margin-top: 50px;
+}
+
+.footer {
+    margin-top: 5350px;
+}
+
+
+/*按钮*/
+
+.content03 input {
+    width: 100px;
+    height: 25px;
+    margin-left: 735px;
+    margin-top: 10px;
+}
+
+
+/*下拉菜单修改*/
+
+.nav2 li:hover {
+    color: #c00000;
+}
+
+.list_con ul {
+    width: 100%;
+    height: 100%;
+    background: #c00000;
+    color: #fff;
+}
+
+.list_con a {
+    color: #000;
+}

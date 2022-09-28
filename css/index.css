@@ -1,0 +1,252 @@
+.w1 {
+    width: 1180px;
+    height: 2610px;
+    margin: 0 auto;
+}
+
+.footer {
+    margin-top: 50px;
+}
+
+
+/*content02*/
+
+.content02 {
+    float: left;
+}
+
+.content02 li {
+    margin-left: 25px;
+    margin-top: 15px;
+    float: left;
+    width: 322px;
+    height: 30px;
+}
+
+.content02 a {
+    color: #000;
+}
+
+.content02 img {
+    width: 20px;
+    height: 20px;
+}
+
+
+/*content04*/
+
+.content04 h3 {
+    padding-left: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+.content04 img {
+    width: 30px;
+    height: 30px;
+}
+
+.content04 li {
+    float: left;
+    width: 110px;
+    height: 30px;
+    margin-left: 35px;
+    margin-top: 14px;
+}
+
+.content04 a {
+    color: black;
+    text-align: center;
+    margin-left: 5px;
+}
+
+
+/*content05*/
+
+.content05 h3 {
+    padding-left: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+.con05 h4 {
+    margin-top: 20px;
+}
+
+.con05 {
+    margin-top: 30px;
+}
+
+
+/*content06*/
+
+.content06 h3 {
+    border-bottom: 1px solid #ccc;
+    padding-left: 5px;
+}
+
+.content06 li {
+    float: left;
+    width: 104px;
+    height: 50px;
+    background: #e9e9e9;
+    margin-top: 10px;
+    border: 1px solid #fff;
+    line-height: 3em;
+}
+
+.content06 a {
+    margin-left: 15px;
+    color: black;
+}
+
+.content06 a:hover {
+    color: red;
+}
+
+
+/*content07*/
+
+.content07 h3 {
+    padding-left: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+.content07 img {
+    width: 20px;
+    height: 20px;
+}
+
+.content07 li {
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.content07 a {
+    color: black;
+}
+
+
+/*wy*/
+
+.wy {
+    position: absolute;
+    margin-top: 2600px;
+}
+
+.wy li {
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-left: 50px;
+    background: #e9e9e9;
+}
+
+.wy a {
+    width: 50px;
+    background: #e9e9e9;
+    text-align: center;
+    color: #000;
+    border: 8px solid #e9e9e9;
+}
+
+.wy a:hover {
+    background: red;
+    color: #fff;
+    border: 8px solid red;
+}
+
+
+/*content03*/
+
+.content03 .left {
+    float: left;
+    width: 200px;
+}
+
+.content03 li {
+    float: left;
+    width: 50px;
+    height: 40px;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
+.content03 a {
+    background: #ccc;
+    color: #000;
+    width: 50px;
+    height: 40px;
+    border: 1px solid #000;
+}
+
+.content03 .left img {
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 200px;
+    height: 200px;
+    transition: all 1s;
+}
+
+.content03 .left img:hover {
+    transform: scale(1) rotate(180deg);
+}
+
+.content03 .right {
+    float: right;
+    width: 500px;
+    margin-top: 10px;
+    margin-right: 50px;
+}
+
+.content03 .right p {
+    text-indent: 20px;
+}
+
+.content03 input {
+    width: 50px;
+    height: 50px;
+    margin-left: 130px;
+    float: right;
+    margin-top: -10px;
+}
+
+.content03 input:hover {
+    background: #e9e9e9;
+    border: 1px solid #e9e9e9;
+}
+
+
+/*footer*/
+
+.footer {
+    width: 100%;
+    height: 202px;
+    padding-top: 30px;
+}
+
+.footer .left {
+    float: left;
+    width: 300px;
+    height: 50px;
+}
+
+.footer .center {
+    float: left;
+    width: 300px;
+    height: 50px;
+}
+
+.footer .right {
+    float: left;
+    width: 300px;
+    height: 50px;
+}
+
+.footer img {
+    width: 350px;
+    height: 160px;
+    border-radius: 50%;
+}
+
+.footer .foot {
+    padding-top: -100px;
+}

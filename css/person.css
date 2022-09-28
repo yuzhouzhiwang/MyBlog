@@ -1,0 +1,113 @@
+/*无缝滚动*/
+
+.header p {
+    float: right;
+    line-height: 63px;
+}
+
+.header p a {
+    display: inline;
+    padding: 0 10px;
+    border-right: 1px solid black;
+    text-decoration: none;
+    color: black;
+}
+
+.header p a:last-child {
+    border-right: none;
+    color: red;
+}
+
+.pic img {
+    margin-top: 10px;
+}
+
+.pic {
+    width: 836px;
+    overflow: hidden;
+}
+
+.content h3 {
+    padding-bottom: 10px;
+    border-bottom: 2px solid blue;
+}
+
+.box {
+    position: relative;
+    left: 0;
+    /* display: flex;*/
+    white-space: nowrap;
+}
+
+.box img {
+    width: 120px;
+    margin-top: 30px;
+}
+
+.hot img {
+    float: right;
+    transition: all 2s;
+}
+
+
+/*jc*/
+
+.content03 .img {
+    padding: 0 20px;
+    float: left;
+}
+
+.ct03 h3 {
+    border-bottom: 1px solid #000;
+}
+
+.ct03 h4 {
+    text-align: center;
+}
+
+.ct03 img {
+    width: 168px;
+    height: 128px;
+    margin-top: 20px;
+    float: right;
+}
+
+.ct03 p {
+    margin-top: 20px;
+}
+
+.ct04 li {
+    padding-top: 115px;
+    margin-left: 780px;
+}
+
+.ct05 li {
+    padding-top: 97px;
+    margin-left: 760px;
+}
+
+.ct06 li {
+    padding-top: 118px;
+    margin-left: 760px;
+}
+
+.ct07 li {
+    padding-top: 99px;
+    margin-left: 795px;
+}
+
+.ct08 li {
+    padding-top: 78px;
+    margin-left: 804px;
+}
+
+.ct04 a,
+.ct04 a,
+.ct05 a,
+.ct06 a,
+.ct07 a,
+.ct08 a {
+    background: #000;
+    color: #fff;
+    width: 50px;
+}
